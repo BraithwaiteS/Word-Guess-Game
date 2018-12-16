@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    box-sizing: border-box;
+    border-style: dashed;
+    border-width: 5px;
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 600px;
+    top: 100px;
+    background-color: #F0F0F0;
+    font-family: 'Pacifico', cursive;
+}
+h1{
+    font-size: 50px;
+    color: #94C82B;
+}
+h2{
+    font-size: 28px;
+    text-align: left;
+    padding: 5px;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+p{
+    padding-top: 30px;
+    letter-spacing: 20px;
+    font-size: 70px;
+    margin-top: 30px;
+}
+div.guess{
+    font-size: 70px;
+}
+img{
+    width: 550px;
+    height: 550px;
+    z-index: -1;
+    position: absolute;
+    bottom: -190px;
+    right: 430px;
+}
